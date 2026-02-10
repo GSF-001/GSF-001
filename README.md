@@ -55,9 +55,13 @@ If you like what I build and want to fuel the system… or just fuel my caffeine
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/yourusername)
 
 ---
+[🔗 Rilis](https://github.com/GSF-001/GSF-001/releases)  
+[🔗 Paket](https://github.com/users/GSF-001/packages?repo_name=GSF-001)
 
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=coughyyee&theme=dark&show_icons=true&hide_border=false&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=coughyyee&theme=dark&hide_border=false)
 [![](https://visitcount.itsvg.in/api?id=coughyyee&icon=10&color=11)](https://visitcount.itsvg.in)
+
+
