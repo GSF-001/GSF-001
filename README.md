@@ -1,4 +1,4 @@
-# 💫 Hi, I'am MIKA
+ # 💫 MIKA — Digital Systems Architect
 ![Java](https://img.shields.io/badge/java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
@@ -10,8 +10,10 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23316192?style=flat-square&logo=Microsoft+SQL+Server&logoColor=white)
 
----
+*"I build systems that outlive their creators. Autonomous. Decentralized. Just signals, rules, and coordination logic."*
 
+---
+![Mystery](https://github.com/user-attachments/assets/5bebafcd-b0c6-4d5f-beb5-0b25fea2bff2)
 🌐 Connect with Me
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pN6gD6dR)
@@ -19,12 +21,9 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mikamorpi)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gsfvapps@gmail.com)
 
-
-![Mystery](https://github.com/user-attachments/assets/5bebafcd-b0c6-4d5f-beb5-0b25fea2bff2)
-
 ---
 
-## 🏗️ Systems in Progress
+## 🏗️ Systems Progress
 
 ![image alt](https://github.com/GSF-001/GSF-001/blob/53744278df3b7ee4aa23a3b55d75e96ec2d607a9/join.png)
 [🔗 Rilis](https://github.com/GSF-001/GSF-001/releases)  
