@@ -46,7 +46,7 @@ No custody. No central control. No excuses. Just **signals, rules, and coordinat
 ---
 ## 🪙 Holopin Badge
 
-[![]
+[![An image of @mikamorpi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mikamorpi)](https://holopin.io/@mikamorpi)
 
 ## 💰 Support & Donations
 
