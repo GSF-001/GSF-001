@@ -41,7 +41,7 @@ No custody. No central control. No excuses. Just **signals, rules, and coordinat
 
 ## 🏆 GitHub 
 
-![image alt]()
+![image alt](https://github.com/GSF-001/GSF-001/blob/53744278df3b7ee4aa23a3b55d75e96ec2d607a9/join.png)
 
 ---
 ## 🪙 Holopin Badge
