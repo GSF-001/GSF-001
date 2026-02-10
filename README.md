@@ -1,4 +1,4 @@
-# 💫 MIKA — Digital Systems Architect
+# 💫 Digital Systems Architect
 
 *Building autonomous systems that outlive their operators.*  
 No custody. No central control. No excuses. Just **signals, rules, and coordination logic**.
@@ -28,25 +28,23 @@ No custody. No central control. No excuses. Just **signals, rules, and coordinat
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23316192?style=flat-square&logo=Microsoft+SQL+Server&logoColor=white)
 
-*(Full stack & AI-powered ecosystem builder)*
+[full stack & AI-powered ecosystem builder]
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=coughyyee&theme=dark&show_icons=true&hide_border=false&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=coughyyee&theme=dark&hide_border=false)
-
----
-
-## 🏆 GitHub 
+## 🏗️ Systems in Progress
 
 ![image alt](https://github.com/GSF-001/GSF-001/blob/53744278df3b7ee4aa23a3b55d75e96ec2d607a9/join.png)
 
 ---
-## 🪙 Holopin Badge
+## ⚡🐉 Philosophy
 
-[![An image of @mikamorpi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mikamorpi)](https://holopin.io/@mikamorpi)
+- Systems outlive operators.  
+- Incentives are code, not promises.  
+- Transparency & autonomy > centralization.  
+- Build once → deploy everywhere.  
+
+*“If the system works, it survives. If it fails, it fails visibly.”*
 
 ## 💰 Support & Donations
 
@@ -58,15 +56,8 @@ If you like what I build and want to fuel the system… or just fuel my caffeine
 
 ---
 
-## ⚡ Philosophy
+## 📊 GitHub Stats
 
-- Systems outlive operators.  
-- Incentives are code, not promises.  
-- Transparency & autonomy > centralization.  
-- Build once → deploy everywhere.  
-
-*“If the system works, it survives. If it fails, it fails visibly.”*
-
----
-
+![](https://github-readme-stats.vercel.app/api?username=coughyyee&theme=dark&show_icons=true&hide_border=false&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=coughyyee&theme=dark&hide_border=false)
 [![](https://visitcount.itsvg.in/api?id=coughyyee&icon=10&color=11)](https://visitcount.itsvg.in)
