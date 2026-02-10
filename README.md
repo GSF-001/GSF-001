@@ -7,6 +7,8 @@ No custody. No central control. No excuses. Just **signals, rules, and coordinat
 
 ---
 
+[![Daily.dev profile]()](https://app.daily.dev/mikazarkchie)
+
 ## 🌐 Connect with Me
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pN6gD6dR)
