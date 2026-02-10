@@ -35,6 +35,7 @@ No custody. No central control. No excuses. Just **signals, rules, and coordinat
 ## 🏗️ Systems in Progress
 
 ![image alt](https://github.com/GSF-001/GSF-001/blob/53744278df3b7ee4aa23a3b55d75e96ec2d607a9/join.png)
+[🔗 Rilis](https://github.com/GSF-001/GSF-001/releases)  
 
 ---
 ## ⚡🐉 Philosophy
@@ -55,8 +56,6 @@ If you like what I build and want to fuel the system… or just fuel my caffeine
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/yourusername)
 
 ---
-[🔗 Rilis](https://github.com/GSF-001/GSF-001/releases)  
-[🔗 Paket](https://github.com/users/GSF-001/packages?repo_name=GSF-001)
 
 ## 📊 GitHub Stats
 
