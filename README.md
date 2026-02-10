@@ -1,4 +1,4 @@
-# 💫 Hi, I'm MIKA
+# 💫 Hi, I'am MIKA
 ![Java](https://img.shields.io/badge/java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
@@ -9,11 +9,6 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23316192?style=flat-square&logo=Microsoft+SQL+Server&logoColor=white)
-
-[full stack & AI-powered ecosystem builder]
-
-*Again Building autonomous systems that outlive their operators.*  
-No custody. No central control. No excuses. Just **signals, rules, and coordination logic**.
 
 ---
 
@@ -33,6 +28,10 @@ No custody. No central control. No excuses. Just **signals, rules, and coordinat
 
 ![image alt](https://github.com/GSF-001/GSF-001/blob/53744278df3b7ee4aa23a3b55d75e96ec2d607a9/join.png)
 [🔗 Rilis](https://github.com/GSF-001/GSF-001/releases)  
+[full stack & AI-powered ecosystem builder]
+
+*Again Building autonomous systems that outlive their operators.*  
+No custody. No central control. No excuses. Just **signals, rules, and coordination logic**.
 
 ---
 ## ⚡🐉 Philosophy
