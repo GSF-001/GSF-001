@@ -27,6 +27,7 @@
 
 ![image alt](https://github.com/GSF-001/GSF-001/blob/53744278df3b7ee4aa23a3b55d75e96ec2d607a9/join.png)
 [🔗 Rilis](https://github.com/GSF-001/GSF-001/releases)  
+
 [full stack & AI-powered ecosystem builder]
 
 *Again Building autonomous systems that outlive their operators.*  
@@ -51,9 +52,9 @@ If you like what I build and want to fuel the system… or just fuel my caffeine
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/yourusername)
 
 ---
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 90%;">
   <span>by ©Founder : Mikatoshi</span>
-  <img src="https://github.com/GSF-001/edge-safety-system/blob/360a3b4aff4da9e42c6430d723537295c4a0eddc/file_00000000fa0c72069accd6a331011001-removebg-preview.png?raw=true" width="100"/>
+  <img src="https://github.com/GSF-001/edge-safety-system/blob/360a3b4aff4da9e42c6430d723537295c4a0eddc/file_00000000fa0c72069accd6a331011001-removebg-preview.png?raw=true" width="90"/>
 </div>
 
 ![](https://github-readme-stats.vercel.app/api?username=coughyyee&theme=dark&show_icons=true&hide_border=false&count_private=true)  
