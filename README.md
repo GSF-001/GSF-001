@@ -34,7 +34,7 @@
 No custody. No central control. No excuses. Just **signals, rules, and coordination logic**.
 
 ---
-## ⚡🐉 Philosophy
+##  Philosophy
 
 - Systems outlive operators.  
 - Incentives are code, not promises.  
@@ -43,7 +43,7 @@ No custody. No central control. No excuses. Just **signals, rules, and coordinat
 
 *“If the system works, it survives. If it fails, it fails visibly.”*
 
-## 💰 Support & Donations
+## Support & Donations
 
 If you like what I build and want to fuel the system… or just fuel my caffeine. ☕ No obligations. Only respect for code & curiosity.
 
