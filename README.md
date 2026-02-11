@@ -52,11 +52,19 @@ If you like what I build and want to fuel the system… or just fuel my caffeine
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/yourusername)
 
 ---
-<div style="display: flex; justify-content: space-between; align-items: center; width: 90%;">
-  <span>by ©Founder : Mikatoshi</span>
-  <img src="https://github.com/GSF-001/edge-safety-system/blob/360a3b4aff4da9e42c6430d723537295c4a0eddc/file_00000000fa0c72069accd6a331011001-removebg-preview.png?raw=true" width="90"/>
-</div>
+   <p align="right">
+  <img src="https://github.com/GSF-001/edge-safety-system/blob/360a3b4aff4da9e42c6430d723537295c4a0eddc/file_00000000fa0c72069accd6a331011001-removebg-preview.png?raw=true" width="100"/>
+</p>
+     
+     by founder: Mikatoshi 
 
-![](https://github-readme-stats.vercel.app/api?username=coughyyee&theme=dark&show_icons=true&hide_border=false&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=coughyyee&theme=dark&hide_border=false)
-[![](https://visitcount.itsvg.in/api?id=coughyyee&icon=10&color=11)](https://visitcount.itsvg.in)
+
+
+
+
+
+
+
+
+
+
