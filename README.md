@@ -51,6 +51,12 @@ If you like what I build and want to fuel the system… or just fuel my caffeine
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/yourusername)
 
 ---
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=coughyyee&theme=dark&show_icons=true&hide_border=false&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=coughyyee&theme=dark&hide_border=false)
+[![](https://visitcount.itsvg.in/api?id=coughyyee&icon=10&color=11)](https://visitcount.itsvg.in)
+
 <table width="100%">
   <tr>
     <td align="left">
@@ -62,11 +68,4 @@ If you like what I build and want to fuel the system… or just fuel my caffeine
     </td>
   </tr>
 </table>
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=coughyyee&theme=dark&show_icons=true&hide_border=false&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=coughyyee&theme=dark&hide_border=false)
-[![](https://visitcount.itsvg.in/api?id=coughyyee&icon=10&color=11)](https://visitcount.itsvg.in)
-
 
