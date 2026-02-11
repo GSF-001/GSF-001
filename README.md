@@ -51,6 +51,17 @@ If you like what I build and want to fuel the system… or just fuel my caffeine
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/yourusername)
 
 ---
+<table width="100%">
+  <tr>
+    <td align="left">
+      <strong>by ©Founder :
+       MIKAtoshi</strong>
+    </td>
+    <td align="right">
+      <img src="https://github.com/GSF-001/edge-safety-system/blob/360a3b4aff4da9e42c6430d723537295c4a0eddc/file_00000000fa0c72069accd6a331011001-removebg-preview.png?raw=true" width="100"/>
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
