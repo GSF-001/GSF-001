@@ -1,4 +1,6 @@
  # 💫 MIKA — Digital Systems Architect
+Operator status: offline.
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
