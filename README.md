@@ -29,6 +29,7 @@
 [🔗 Rilis](https://github.com/GSF-001/GSF-001/releases)  
 
 [full stack & AI-powered ecosystem builder]
+https://github.com/GSF-001/GSF-SYSTEM-/tree/042cb33876e265bb6d6558fe5215a11966a83746/docs
 
 *Again Building autonomous systems that outlive their operators.*  
 No custody. No central control. No excuses. Just **signals, rules, and coordination logic**.
