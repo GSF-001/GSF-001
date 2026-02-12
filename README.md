@@ -10,7 +10,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23316192?style=flat-square&logo=Microsoft+SQL+Server&logoColor=white)
 
-*"I build systems that outlive their creators. Autonomous. Decentralized. Just signals, rules, and coordination logic."*
+"Building private production systems.
+Public repos are abstractions, experiments, and entry points for collaborators.
 
 ---
 ![Mystery](https://github.com/user-attachments/assets/5bebafcd-b0c6-4d5f-beb5-0b25fea2bff2)
