@@ -33,7 +33,6 @@ https://github.com/GSF-001/GSF-SYSTEM-/tree/042cb33876e265bb6d6558fe5215a11966a8
 
 *Again Building autonomous systems that outlive their operators.*  
 No custody. No central control. No excuses. Just **signals, rules, and coordination logic**.
-
 my issue: https://github.com/GSF-001/GSF-SYSTEM-/issues/5#issue-3929163857
 
 ---
