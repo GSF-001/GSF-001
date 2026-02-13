@@ -28,14 +28,9 @@ Public repos are abstractions, experiments, and entry points for collaborators."
 Building autonomous systems that outlive their operators.
 No custody. No central control. Only signals and rules.
 
-Active system (architecture & docs):
-https://github.com/https://github.com/GSF-001/GSF-SYSTEM-/tree/537bd73876f1d0692854cf6230ea3c9491c689e8/docs
+Active system (architecture & docs):https://github.com/GSF-001/GSF-SYSTEM-/tree/537bd73876f1d0692854cf6230ea3c9491c689e8/docs
 
-Design discussion & failure points:
-https://github.com/GSF-001/.           GSF-SYSTEM-/issues/6
-
-Active discussion → https://github.com/GSF-001/GSF-SYSTEM-/discussions/4#discussion-9451803/.                   GSF-
-001/GSFSYSTEM-/issues/6
+Active discussion → https://github.com/GSF-001/GSF-SYSTEM-/discussions/4
 
 ---
 ###  Philosophy
@@ -48,4 +43,5 @@ Active discussion → https://github.com/GSF-001/GSF-SYSTEM-/discussions/4#discu
 *“If the system works, it survives. If it fails, it fails visibly.”*
 
 
-— Mikatoshi
+— Mikatoshi  
+Systems speak. I observe.
