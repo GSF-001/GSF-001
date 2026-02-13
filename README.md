@@ -1,32 +1,24 @@
- # 💫 MIKA — Digital Systems Architect
+### 💫 MIKA — Digital Systems Architect
 Operator status: offline.
 
-![Java](https://img.shields.io/badge/java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23316192?style=flat-square&logo=Microsoft+SQL+Server&logoColor=white)
 
 "Building private production systems.
-Public repos are abstractions, experiments, and entry points for collaborators.
+Public repos are abstractions, experiments, and entry points for collaborators."
 
 ---
 ![Mystery](https://github.com/user-attachments/assets/5bebafcd-b0c6-4d5f-beb5-0b25fea2bff2)
 🌐 Connect with Me
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pN6gD6dR)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MIKA)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mikamorpi)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gsfvapps@gmail.com)
 
 ---
 
-## 🏗️ Systems Progress
+### 🏗️ Systems Progress
 
 ![image alt](https://github.com/GSF-001/GSF-001/blob/53744278df3b7ee4aa23a3b55d75e96ec2d607a9/join.png)
 [🔗 Rilis](https://github.com/GSF-001/GSF-001/releases)  
@@ -39,7 +31,7 @@ No custody. No central control. No excuses. Just **signals, rules, and coordinat
 my issue: https://github.com/GSF-001/GSF-SYSTEM-/issues/5#issue-3929163857
 
 ---
-##  Philosophy
+###  Philosophy
 
 - Systems outlive operators.  
 - Incentives are code, not promises.  
@@ -48,7 +40,7 @@ my issue: https://github.com/GSF-001/GSF-SYSTEM-/issues/5#issue-3929163857
 
 *“If the system works, it survives. If it fails, it fails visibly.”*
 
-## Support & Donations
+### Support & Donations
 
 If you like what I build and want to fuel the system… or just fuel my caffeine. ☕ No obligations. Only respect for code & curiosity.
 
@@ -57,8 +49,4 @@ If you like what I build and want to fuel the system… or just fuel my caffeine
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/yourusername)
 
 ---
-   <p align="right">
-  <img src="https://github.com/GSF-001/edge-safety-system/blob/360a3b4aff4da9e42c6430d723537295c4a0eddc/file_00000000fa0c72069accd6a331011001-removebg-preview.png?raw=true" width="120"/>
-</p>
-
- by ©Founder: Mikatoshi 
+by Mikatoshi 
