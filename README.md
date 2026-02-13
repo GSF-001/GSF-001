@@ -20,7 +20,6 @@ Public repos are abstractions, experiments, and entry points for collaborators."
 
 ### 🏗️ Systems Progress
 
-![image alt](https://github.com/GSF-001/GSF-001/blob/53744278df3b7ee4aa23a3b55d75e96ec2d607a9/join.png)
 [🔗 Rilis](https://github.com/GSF-001/GSF-001/releases)  
 
 [full stack & AI-powered ecosystem builder]
@@ -28,7 +27,8 @@ https://github.com/GSF-001/GSF-SYSTEM-/tree/042cb33876e265bb6d6558fe5215a11966a8
 
 *Again Building autonomous systems that outlive their operators.*  
 No custody. No central control. No excuses. Just **signals, rules, and coordination logic**.
-my issue: https://github.com/GSF-001/GSF-SYSTEM-/issues/5#issue-3929163857
+
+Active discussion → https://github.com/...
 
 ---
 ###  Philosophy
@@ -44,9 +44,6 @@ my issue: https://github.com/GSF-001/GSF-SYSTEM-/issues/5#issue-3929163857
 
 If you like what I build and want to fuel the system… or just fuel my caffeine. ☕ No obligations. Only respect for code & curiosity.
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)  
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yourusername)  
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/yourusername)
-
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername) 
 ---
-by Mikatoshi 
+— Mikatoshi
