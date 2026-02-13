@@ -29,7 +29,7 @@ Building autonomous systems that outlive their operators.
 No custody. No central control. Only signals and rules.
 
 Active system (architecture & docs):
-https://github.com/GSF-001/GSF-SYSTEM-/tree/...
+https://github.com/https://github.com/GSF-001/GSF-SYSTEM-/tree/537bd73876f1d0692854cf6230ea3c9491c689e8/docs
 
 Design discussion & failure points:
 https://github.com/GSF-001/.           GSF-SYSTEM-/issues/6
