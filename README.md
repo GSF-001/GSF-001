@@ -1,5 +1,9 @@
-### 💫 MIKA — Digital Systems Architect
+### MIKATOSHI 
 Operator status: offline.
+
+Public code is intentional.
+Private systems exist.
+If the system works, it survives.
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -21,14 +25,15 @@ Public repos are abstractions, experiments, and entry points for collaborators."
 ### 🏗️ Systems Progress
 
 [🔗 Rilis](https://github.com/GSF-001/GSF-001/releases)  
+Building autonomous systems that outlive their operators.
+No custody. No central control. Only signals and rules.
 
-[full stack & AI-powered ecosystem builder]
-https://github.com/GSF-001/GSF-SYSTEM-/tree/042cb33876e265bb6d6558fe5215a11966a83746/docs
+Active system (architecture & docs):
+https://github.com/GSF-001/GSF-SYSTEM-/tree/...
 
-*Again Building autonomous systems that outlive their operators.*  
-No custody. No central control. No excuses. Just **signals, rules, and coordination logic**.
-
-Active discussion → https://github.com/...
+Design discussion & failure points:
+https://github.com/GSF-001/.           GSF-SYSTEM-/issues/6
+Active discussion → https://github.com/.                   GSF-001/GSFSYSTEM-/issues/6
 
 ---
 ###  Philosophy
@@ -40,10 +45,5 @@ Active discussion → https://github.com/...
 
 *“If the system works, it survives. If it fails, it fails visibly.”*
 
-### Support & Donations
 
-If you like what I build and want to fuel the system… or just fuel my caffeine. ☕ No obligations. Only respect for code & curiosity.
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername) 
----
 — Mikatoshi
