@@ -33,7 +33,9 @@ https://github.com/https://github.com/GSF-001/GSF-SYSTEM-/tree/537bd73876f1d0692
 
 Design discussion & failure points:
 https://github.com/GSF-001/.           GSF-SYSTEM-/issues/6
-Active discussion → https://github.com/.                   GSF-001/GSFSYSTEM-/issues/6
+
+Active discussion → https://github.com/GSF-001/GSF-SYSTEM-/discussions/4#discussion-9451803/.                   GSF-
+001/GSFSYSTEM-/issues/6
 
 ---
 ###  Philosophy
