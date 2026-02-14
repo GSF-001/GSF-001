@@ -32,7 +32,6 @@ Active system (architecture & docs):https://github.com/GSF-001/GSF-SYSTEM-/tree/
 
 Active discussion → https://github.com/GSF-001/GSF-SYSTEM-/discussions/4
 
-- [Architecture Overview](./ARCHITECTURE.md)  
 - [System Modules](./modules)  
 - [Non-Goals](./NON_GOALS.md)
 
