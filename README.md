@@ -35,6 +35,7 @@ Active discussion → https://github.com/GSF-001/GSF-SYSTEM-/discussions/4
 - [System Modules](./modules)  
 - [Non-Goals](./NON_GOALS.md)
 
+- [ first repo ] → https://github.com/GSF-001/gsf-digital-sovereign-system/blob/main/README.md
 ---
 ###  Philosophy
 
