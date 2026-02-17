@@ -1,9 +1,12 @@
 ### MIKATOSHI 
 Operator status: offline.
 
-Public code is intentional.
-Private systems exist.
-If the system works, it survives.
+---
+Public repository for observation only.
+Architecture ≠ production.
+Control remains with the operator.
+
+---
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -46,13 +49,9 @@ Q4 → Controlled public beta
 
 ### Looking For
 
-Backend engineer (Node.js / Python)
-Systems architect
-Quant-minded contributor
-Security reviewer
-Infrastructure optimization collaborator
-Public repos act as entry points.
-Serious contributors operate at architecture level.
+Contact Policy
+This repository is not open for public contributions.
+Communication is only for institutional purposes, limited audits, or official integrations.
 
 Client → API Layer → Signal Engine → Rule Validator → Journal Layer → Output Interface
 
@@ -65,7 +64,7 @@ Client → API Layer → Signal Engine → Rule Validator → Journal Layer → 
 - Transparency & autonomy > centralization.  
 - Build once → deploy everywhere.  
 
-*“If the system works, it survives. If it fails, it fails visibly.”*
+*“A running system does not depend on who sees it..”*
 
 🌐 Connect with Me
 
