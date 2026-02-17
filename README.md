@@ -54,6 +54,8 @@ Infrastructure optimization collaborator
 Public repos act as entry points.
 Serious contributors operate at architecture level.
 
+Client → API Layer → Signal Engine → Rule Validator → Journal Layer → Output Interface
+
 ###  Philosophy
 
 ![image](https://github.com/GSF-001/edge-safety-system/blob/adfa25cd8ea4d6c610b68a64b97710631bd7b443/istockphoto-1193307437-612x612.jpg)
@@ -64,8 +66,6 @@ Serious contributors operate at architecture level.
 - Build once → deploy everywhere.  
 
 *“If the system works, it survives. If it fails, it fails visibly.”*
-
-Client → API Layer → Signal Engine → Rule Validator → Journal Layer → Output Interface
 
 🌐 Connect with Me
 
