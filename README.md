@@ -32,12 +32,30 @@ Active system (architecture & docs):https://github.com/GSF-001/GSF-SYSTEM-/tree/
 
 Active discussion → https://github.com/GSF-001/GSF-SYSTEM-/discussions/4
 
-- [System Modules](./modules)  
-- [Non-Goals](./NON_GOALS.md)
+#### Roadmap
+
+Q1 → Engine stabilization
+
+Q2 → Non-custodial validation module
+
+Q3 → Distributed node testing
+
+Q4 → Controlled public beta
 
 - Archive — Genesis→
   https://github.com/GSF-001/gsf-digital-sovereign-system/blob/main/README.md
 ---
+
+### Looking For
+
+Backend engineer (Node.js / Python)
+Systems architect
+Quant-minded contributor
+Security reviewer
+Infrastructure optimization collaborator
+Public repos act as entry points.
+Serious contributors operate at architecture level.
+
 ###  Philosophy
 
 - Systems outlive operators.  
@@ -47,6 +65,7 @@ Active discussion → https://github.com/GSF-001/GSF-SYSTEM-/discussions/4
 
 *“If the system works, it survives. If it fails, it fails visibly.”*
 
+Client → API Layer → Signal Engine → Rule Validator → Journal Layer → Output Interface
 
 — Mikatoshi  
 Systems speak. I observe.
