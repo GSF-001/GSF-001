@@ -16,15 +16,13 @@ Public repos are abstractions, experiments, and entry points for collaborators."
 
 ---
 ![Mystery](https://github.com/user-attachments/assets/5bebafcd-b0c6-4d5f-beb5-0b25fea2bff2)
-🌐 Connect with Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gsfvapps@gmail.com)
 
 ---
 
 ### 🏗️ Systems Progress
 
 [🔗 Rilis](https://github.com/GSF-001/GSF-001/releases)  
+
 Building autonomous systems that outlive their operators.
 No custody. No central control. Only signals and rules.
 
@@ -58,6 +56,8 @@ Serious contributors operate at architecture level.
 
 ###  Philosophy
 
+![image](https://github.com/GSF-001/edge-safety-system/blob/adfa25cd8ea4d6c610b68a64b97710631bd7b443/istockphoto-1193307437-612x612.jpg)
+
 - Systems outlive operators.  
 - Incentives are code, not promises.  
 - Transparency & autonomy > centralization.  
@@ -66,6 +66,10 @@ Serious contributors operate at architecture level.
 *“If the system works, it survives. If it fails, it fails visibly.”*
 
 Client → API Layer → Signal Engine → Rule Validator → Journal Layer → Output Interface
+
+🌐 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gsfvapps@gmail.com)
 
 — Mikatoshi  
 Systems speak. I observe.
