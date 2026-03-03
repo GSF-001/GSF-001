@@ -26,15 +26,11 @@ of the ecosystem.
 Public repos are abstractions, experiments, and entry points for collaborators."
 
 ---
-![Mystery](https://github.com/user-attachments/assets/5bebafcd-b0c6-4d5f-beb5-0b25fea2bff2)
-
----
 
 ### 🏗️ Systems Progress
 
 [🔗 Rilis](https://github.com/GSF-001/GSF-001/releases)  
 
-Building autonomous systems that outlive their operators.
 No custody. No central control. Only signals and rules.
 
 Active system (architecture & docs):https://github.com/GSF-001/GSF-SYSTEM-/tree/537bd73876f1d0692854cf6230ea3c9491c689e8/docs
@@ -54,7 +50,6 @@ Q4 → Controlled public beta
 - Archive — Genesis→
   https://github.com/GSF-001/gsf-digital-sovereign-system/blob/main/README.md
 
-Client → API Layer → Signal Engine → Rule Validator → Journal Layer → Output Interface
 
 ###  Philosophy
 
