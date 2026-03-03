@@ -53,13 +53,6 @@ Q4 → Controlled public beta
 
 - Archive — Genesis→
   https://github.com/GSF-001/gsf-digital-sovereign-system/blob/main/README.md
----
-
-### Looking For
-
-Contact Policy
-This repository is not open for public contributions.
-Communication is only for institutional purposes, limited audits, or official integrations.
 
 Client → API Layer → Signal Engine → Rule Validator → Journal Layer → Output Interface
 
