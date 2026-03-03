@@ -8,18 +8,15 @@ Control remains with the operator.
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-## Current Focus
-- GSF — Digital City Ecosystem  
+### Current Focus
+ GSF — Digital City Ecosystem  
 Architecture phase.
-
-"Public repositories are observational layers.experiments, and entry points for collaborators."
+ "Public repositories are observational layers.experiments, and entry points for collaborators."
 
 ---
 
 ### 🏗️ Systems Progress
-
-[🔗 Rilis](https://github.com/GSF-001/GSF-001/releases)  
+ [🔗 Rilis](https://github.com/GSF-001/GSF-001/releases)  
 
 - Active discussion → https://github.com/GSF-001/GSF-SYSTEM-/discussions/4
 
