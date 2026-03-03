@@ -1,7 +1,6 @@
 ### MIKATOSHI 
 Operator status: offline.
 
----
 Public repository for observation only.
 Architecture ≠ production.
 Control remains with the operator.
