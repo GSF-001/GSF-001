@@ -11,24 +11,17 @@ Control remains with the operator.
 
 ## Current Focus
 - GSF — Digital City Ecosystem  
-Architecture phase. governance, and AI-assisted infrastructure.
+Architecture phase.
 
-- Open architecture phase.
-Selected repositories represent different layers
-of the ecosystem.
-
-"Building private production systems.
-Public repos are abstractions, experiments, and entry points for collaborators."
+"Public repositories are observational layers.experiments, and entry points for collaborators."
 
 ---
 
 ### 🏗️ Systems Progress
-Active architecture development.
-Public layers available in repositories.
 
 [🔗 Rilis](https://github.com/GSF-001/GSF-001/releases)  
 
-Active discussion → https://github.com/GSF-001/GSF-SYSTEM-/discussions/4
+- Active discussion → https://github.com/GSF-001/GSF-SYSTEM-/discussions/4
 
 - Genesis→
   https://github.com/GSF-001/gsf-digital-sovereign-system/blob/main/README.md
