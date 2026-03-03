@@ -6,13 +6,21 @@ Public repository for observation only.
 Architecture ≠ production.
 Control remains with the operator.
 
----
-
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23316192?style=flat-square&logo=Microsoft+SQL+Server&logoColor=white)
+
+## Current Focus
+
+Building GSF — a modular digital ecosystem exploring
+education, governance, and AI-assisted infrastructure.
+
+Open architecture phase.
+
+Selected repositories represent different layers
+of the ecosystem.
 
 "Building private production systems.
 Public repos are abstractions, experiments, and entry points for collaborators."
