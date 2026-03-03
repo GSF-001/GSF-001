@@ -50,10 +50,7 @@ Q4 → Controlled public beta
 - Archive — Genesis→
   https://github.com/GSF-001/gsf-digital-sovereign-system/blob/main/README.md
 
-
 ###  Philosophy
-
-![image](https://github.com/GSF-001/edge-safety-system/blob/adfa25cd8ea4d6c610b68a64b97710631bd7b443/istockphoto-1193307437-612x612.jpg)
 
 - Systems outlive operators.  
 - Incentives are code, not promises.  
