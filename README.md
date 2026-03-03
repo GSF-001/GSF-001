@@ -28,11 +28,9 @@ Public layers available in repositories.
 
 [🔗 Rilis](https://github.com/GSF-001/GSF-001/releases)  
 
-Active system (architecture & docs):https://github.com/GSF-001/GSF-SYSTEM-/tree/537bd73876f1d0692854cf6230ea3c9491c689e8/docs
-
 Active discussion → https://github.com/GSF-001/GSF-SYSTEM-/discussions/4
 
-- Archive — Genesis→
+- Genesis→
   https://github.com/GSF-001/gsf-digital-sovereign-system/blob/main/README.md
 
 ###  Philosophy
