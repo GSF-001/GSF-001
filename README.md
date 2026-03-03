@@ -10,8 +10,8 @@ Control remains with the operator.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ### Current Focus
  GSF — Digital City Ecosystem  
-Architecture phase.
- "Public repositories are observational layers.experiments, and entry points for collaborators."
+Architecture phase
+  "Public repositories are observational layers.experiments, and entry points for collaborators."
 
 ---
 
